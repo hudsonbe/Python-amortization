@@ -1,8 +1,8 @@
 # python-amortization
 
-I've always been curious how amortization was calculated. You intend to take a personal loan or already have one either it's a credit card, auto loan or student loan. You'll probably run into it online when you want to visualize how you can better pay your loan by paying more than just the minimum or how long it will take you to pay it off with just the minimum payment.
+I've always been curious how amortization is calculated. If you intend to take a personal loan or already have either a credit card, auto loan or student loan. You'd probably run into it online when you want to have a clear idea how to better pay off your loan by paying just or more than just the minimum payment .
 
-As a python lover I knew it was possible to create my own calculator. So after some research how found a python library called numpy-funancial. With the help of the documentation I was able to start. It was easy but I managed to make it work. I used a calculator website https://www.investopedia.com/amortization-calculator-5086959 to verify if it really works. 
+As a python lover I knew it was possible to create my own calculator, but I did not know how. So after some research I found a python library called numpy-funancial. With the help of the documentation I was able to start. It was easy but I managed to make it work. I used a calculator website https://www.investopedia.com/amortization-calculator-5086959 to verify if it really works. You can also install another library amortization, but I prefer numpy-financial since it's simpler and works just like excel amortization which is pretty straightforward. 
 
 What Is Amortization?
 
